@@ -1,0 +1,5 @@
+config.py
+.venv/
+__pycache__/
+baza.db
+products.db
